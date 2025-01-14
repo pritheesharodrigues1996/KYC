@@ -1,5 +1,5 @@
 
-# Meeting Application
+# KYC Application
 
 A KYC application to register customer KYC Information
 
